@@ -1,1 +1,2 @@
 Linux commands: ls, pwd, cd, mkdir, chmod
+Linux: chmod, chown, grep, find, systemctl
