@@ -1,4 +1,4 @@
-# DevOps Week 02
+\# DevOps Week 02
 
 ## Project Description
 This repository contains my Week 02 DevOps practical exercises.
