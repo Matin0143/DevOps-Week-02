@@ -1,0 +1,1 @@
+AWS services: EC2, S3, IAM, VPC, RDS

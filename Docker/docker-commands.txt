@@ -1,0 +1,1 @@
+Docker commands: docker ps, docker images, docker build
