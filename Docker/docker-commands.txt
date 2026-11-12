@@ -1,1 +1,2 @@
 Docker commands: docker ps, docker images, docker build
+Docker: docker run, docker exec, docker logs, docker inspect
