@@ -19,8 +19,6 @@ This repository contains my Week 02 DevOps practical exercises.
 - Scripts/
 
 ## Objective
-To understand Git branches, commits, merging,
-pull requests, and merge conflict resolution.
+Objective: Learn Docker container management and Git branching.
 
-## Author
 Sk Matin Uddin
